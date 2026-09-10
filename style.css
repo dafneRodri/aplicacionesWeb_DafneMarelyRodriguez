@@ -2,3 +2,11 @@ body {
     background-color: #3b1432;
     color: #f3e5f5;
 }
+
+section {
+    background-color: #4a1c3e;
+    padding: 25px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 900px;
+}
