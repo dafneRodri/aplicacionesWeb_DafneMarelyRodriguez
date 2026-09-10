@@ -8,7 +8,7 @@ section {
     padding: 25px;
     margin: 20px auto;
     border-radius: 10px;
-    max-width: 900px;
+    max-width: 1000px;
 }
 
 h1 {
@@ -46,5 +46,14 @@ nav p a {
     padding: 8px 15px;
     border-radius: 5px;
     font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 15px auto;
+    border-radius: 8px; /* Bordes redondeados */
+    border: 3px solid #ffb703; /* Marco color amarillo/naranja */
 }
 
