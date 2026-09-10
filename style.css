@@ -38,3 +38,13 @@ header {
     padding: 20px;
     text-align: center;
 }
+
+nav p a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #d94e1f;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
