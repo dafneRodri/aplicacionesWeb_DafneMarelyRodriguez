@@ -91,3 +91,20 @@ a:hover {
     color: #e056fd;
     text-decoration: underline;
 }
+
+.secciondividida {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    margin: 40px 0;
+}
+
+.secciondividida .texto {
+    flex: 1;
+}
+
+.secciondividida .imagen {
+    flex: 1;
+    text-align: center;
+}
