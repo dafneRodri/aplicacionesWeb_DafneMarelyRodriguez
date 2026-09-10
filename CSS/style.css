@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&family=Rye&display=swap');
+
 body {
     background-color: #3b1432;
     color: #f3e5f5;
@@ -13,23 +15,45 @@ section {
 
 h1 {
     color: #A82C6D;
-    font-size: 40px;
+    font-size: 50px;
     text-align: center;
+    font-family: "Rye", serif;
+    font-weight: 10;
+    font-style: normal;
 }
 
 h1 .sub-titulo {
     color: #eb6b26; 
     display: block;
-    font-size: 25px;
+    font-size: 30px;
     letter-spacing: 2px;
     margin-bottom: 5px;
+    font-family: "Rye", serif;
 }
 h2 {
     color: #ffb703;
+    display: block;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    margin-bottom: 15px;
+    font-family: "Domine", serif;
 }
 
 h3 {
      color: #fff200; 
+     display: block;
+    font-size: 18px;
+    letter-spacing: 1.5px;
+    margin-bottom: 15px;
+     font-family: "Domine", serif;
+}
+
+p {
+    color: #f3e5f5;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    font-family: "Domine", sans-serif;
 }
 
 header {
