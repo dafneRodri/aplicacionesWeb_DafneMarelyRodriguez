@@ -31,3 +31,10 @@ h2 {
 h3 {
      color: #fff200; 
 }
+
+header {
+    background-color: #2b0b24;
+    color: #ffb703;
+    padding: 20px;
+    text-align: center;
+}
