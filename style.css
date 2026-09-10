@@ -12,10 +12,14 @@ section {
 }
 
 h1 {
-    color: #e056fd;
-    
+    color: #A82C6D;
+
 }
 
+h1 .sub-titulo {
+    color: #eb6b26; 
+
+}
 h2 {
     color: #ffb703;
 }
