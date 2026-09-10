@@ -11,6 +11,15 @@ section {
     max-width: 900px;
 }
 
+h1 {
+    color: #e056fd;
+    
+}
+
 h2 {
     color: #ffb703;
+}
+
+h3 {
+     color: #fff200; 
 }
